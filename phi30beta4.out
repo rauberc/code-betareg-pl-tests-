@@ -1,0 +1,240 @@
+
+Ox Console version 8.02 (Linux_64) (C) J.A. Doornik, 1994-2018
+This version may be used for academic research and teaching only
+
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:20
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:0
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5366   -1.5760
+    1.5000    1.6195    1.6187
+    4.0000    4.5186    4.3805
+    0.0000   -0.0978    0.0000
+   30.0000   48.1739   44.3013
+    0.5000    0.5994    0.5784
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          2.88        9.23       16.14
+w*         1.13        5.15       10.12
+w**        1.25        5.55       10.58
+
+-----------------------------------------------------------------
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:30
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:0
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5420   -1.5345
+    1.5000    1.5569    1.5552
+    4.0000    4.2065    4.2037
+    0.0000    0.0136    0.0000
+   30.0000   39.9750   38.0900
+    0.5000    0.5391    0.5431
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          2.16        7.64       13.57
+w*         1.06        5.10       10.13
+w**        1.09        5.20       10.27
+
+-----------------------------------------------------------------
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:40
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:0
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5319   -1.5245
+    1.5000    1.5465    1.5436
+    4.0000    4.1579    4.1530
+    0.0000    0.0090    0.0000
+   30.0000   36.2955   35.1976
+    0.5000    0.5448    0.5462
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          1.52        6.57       12.21
+w*         1.03        5.06        9.84
+w**        1.05        5.08        9.94
+
+-----------------------------------------------------------------
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:50
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:1
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5367   -1.5377
+    1.5000    1.5624    1.5639
+    4.0000    4.1898    4.1922
+    0.0000   -0.0024    0.0000
+   30.0000   35.2007   34.3189
+    0.5000    0.5514    0.5550
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          1.47        6.31       11.88
+w*         0.89        4.93       10.09
+w**        0.89        4.96       10.15
+
+-----------------------------------------------------------------
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:60
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:3
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5206   -1.5210
+    1.5000    1.5290    1.5305
+    4.0000    4.0959    4.0982
+    0.0000   -0.0016    0.0000
+   30.0000   34.2818   33.5780
+    0.5000    0.5198    0.5228
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          1.40        6.04       11.29
+w*         0.96        5.08        9.54
+w**        0.99        5.12        9.61
+
+-----------------------------------------------------------------
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:70
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:3
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5205   -1.5282
+    1.5000    1.5402    1.5461
+    4.0000    4.1523    4.1517
+    0.0000   -0.0125    0.0000
+   30.0000   33.6110   33.0358
+    0.5000    0.5432    0.5448
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          1.24        5.83       11.37
+w*         0.83        4.93        9.94
+w**        0.83        4.97        9.96
+
+-----------------------------------------------------------------
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:80
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:4
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5159   -1.5172
+    1.5000    1.5232    1.5233
+    4.0000    4.0898    4.0900
+    0.0000   -0.0046    0.0000
+   30.0000   33.0794   32.5705
+    0.5000    0.5200    0.5219
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          1.32        5.96       11.36
+w*         0.98        5.00       10.13
+w**        1.00        5.04       10.16
+
+-----------------------------------------------------------------
+------------------------------RESULTS----------------------------
+			 Program:phi30beta4.ox
+			 OX version:802
+			 Pseudorandom number generator:MWC_52
+			 Seed: 2018
+			 Sample size:90
+			 Monte Carlo replications:10000
+			 Monte Carlo replications with failures:0
+			 Monte Carlo replications with w<=0:4
+			 Optimization algorithm applied: MaxSQP
+
+     theta       hat       til
+   -1.5000   -1.5145   -1.5168
+    1.5000    1.5248    1.5257
+    4.0000    4.0917    4.0928
+    0.0000   -0.0050    0.0000
+   30.0000   32.6561   32.2212
+    0.5000    0.5238    0.5255
+
+-----------------------------------------------------------------
+				 NULL REJECTION RATES
+-----------------------------------------------------------------
+
+             1%          5%         10%
+w          1.23        5.73       10.95
+w*         0.97        5.08        9.79
+w**        0.97        5.09        9.81
+
+-----------------------------------------------------------------
+			 Date:10-07-2020
+			 Time: 1:03:14.73
+-----------------------------------------------------------------
+
